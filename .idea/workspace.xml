@@ -40,8 +40,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "git@github.com:/honghei666/Pythonfile.git",
-    "accountId": "32742898-411b-4902-a120-0e16900dcfa7"
+    "url": "git@github.com:/honghei666/Python.git",
+    "accountId": "71e4a0b5-1b9e-45b2-bf7c-8b0fbefff92a"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
@@ -57,7 +57,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master1",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Administrator/Desktop/intellij-rainbow-brackets-6.26.zip",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -94,6 +94,7 @@
       <workItem from="1741589224890" duration="58000" />
       <workItem from="1741773241696" duration="1116000" />
       <workItem from="1741836458341" duration="1491000" />
+      <workItem from="1741838002895" duration="1242000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -127,7 +128,23 @@
       <option name="project" value="LOCAL" />
       <updated>1741837284125</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1741838108660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741838108660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1741838310322</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741838310322</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
