@@ -40,7 +40,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "git@github.com:/honghei666/Python.git",
+    "url": "git@github.com:/honghei666/Python1.git",
     "accountId": "71e4a0b5-1b9e-45b2-bf7c-8b0fbefff92a"
   }
 }]]></component>
@@ -94,7 +94,7 @@
       <workItem from="1741589224890" duration="58000" />
       <workItem from="1741773241696" duration="1116000" />
       <workItem from="1741836458341" duration="1491000" />
-      <workItem from="1741838002895" duration="1242000" />
+      <workItem from="1741838002895" duration="3439000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741838310322</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="第一次提交">
+      <option name="closed" value="true" />
+      <created>1741839390789</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741839390789</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
